@@ -1,0 +1,4 @@
+from id3 import*
+%run  Data.ipynb
+
+final
